@@ -18,7 +18,8 @@
 
 ## Ringkasan Eksekutif
 
-Data memperlihatkan penjualan selama  tahun (2011-2013) dan bulan pertama pada 2014. Total revenue yang dihasilkan sebesar $29.3. Kuartal ke-4 selalu menjadi periode paling stabil dengan total laba sebesar $9M. Penjualan produk Sepeda mengalami peningkatan setiap tahun dengan puncaknya pada tahun 2013 sebesar $16 M, dan Produk sepeda yang paling diminati adalah Road Bikes atau Sepeda Jalan dengan total revenue $14.5 M .AS menjadi menjadi wilayah paling menguntungkan bagi perusahaan, pelanggan AS menyumbang $9.1 M (30.8% revenue berdasarkan wilayah), Pelanggan VIP mengalami kenaikan signifikan dan semakin mendominasi demografi yang pada awalnya hanya 7% pada 2010 menjadi 76% pada tahun 2013.
+Data memperlihatkan penjualan selama  tahun (2011-2013) dan bulan pertama pada 2014. Total revenue yang dihasilkan sebesar **$29.3M**. **Kuartal ke-4** selalu menjadi periode paling stabil dengan total laba sebesar **$9M**. 
+Penjualan produk **Sepeda** mengalami peningkatan setiap tahun dengan puncaknya pada **tahun 2013 sebesar $16 M**, dan Produk sepeda yang paling diminati adalah **Road Bikes** atau **Sepeda Jalan** dengan total revenue **$14.5 M**. **AS** menjadi menjadi wilayah paling menguntungkan bagi perusahaan, pelanggan AS menyumbang **$9.1 M (30.8% revenue berdasarkan wilayah)**, **Pelanggan VIP** mengalami kenaikan signifikan dan semakin mendominasi demografi yang pada awalnya hanya **7% pada 2010** menjadi **76% pada tahun 2013.**
 
 <p align="center">
    <img src="https://github.com/AlHafidzLuhurDarma/Analisa-Gudang-Penyimpanan/blob/main/gambar/bi_1.png" width=700 height=600>
@@ -28,15 +29,15 @@ Data memperlihatkan penjualan selama  tahun (2011-2013) dan bulan pertama pada 2
 
 Analisis ini bertujuan untuk memberikan gambaran menyeluruh mengenai kinerja bisnis Gold Bike Store, perusahaan yang bergerak di bidang penjualan sepeda dan perlengkapannya, berdasarkan data penjualan periode 2011–2013 dan Januari 2014.
 Secara khusus, laporan ini memiliki beberapa tujuan utama:
-*	Mengidentifikasi tren penjualan secara tahunan dan musiman untuk memahami periode terbaik serta faktor yang memengaruhi fluktuasi penjualan.
-*	Menganalisis performa produk berdasarkan kategori (Bikes, Components, Clothing, Accessories) dan subkategori guna mengetahui produk yang paling menguntungkan dan paling stabil.
-*	Menganalisis karakteristik pelanggan berdasarkan usia, kelas pelanggan (VIP, Regular, New), dan wilayah negara untuk mengidentifikasi segmen pelanggan potensial serta perilaku pembelian mereka.
-*	Menilai kontribusi tiap wilayah terhadap total pendapatan perusahaan serta menemukan peluang ekspansi di pasar dengan pertumbuhan stabil.
-*	Memberikan rekomendasi strategis untuk meningkatkan penjualan, loyalitas pelanggan, serta efisiensi operasional berdasarkan temuan data.
+*	**Mengidentifikasi tren penjualan** secara tahunan dan musiman untuk memahami periode terbaik serta faktor yang memengaruhi fluktuasi penjualan.
+*	**Menganalisis performa produk** berdasarkan kategori (Bikes, Components, Clothing, Accessories) dan subkategori guna mengetahui produk yang paling menguntungkan dan paling stabil.
+*	**Menganalisis karakteristik pelanggan** berdasarkan usia, kelas pelanggan (VIP, Regular, New), dan wilayah negara untuk mengidentifikasi segmen pelanggan potensial serta perilaku pembelian mereka.
+*	**Menilai kontribusi tiap wilayah** terhadap total pendapatan perusahaan serta menemukan peluang ekspansi di pasar dengan pertumbuhan stabil.
+*	**Memberikan rekomendasi strategis** untuk meningkatkan penjualan, loyalitas pelanggan, serta efisiensi operasional berdasarkan temuan data.
 
 ## Deskripsi Data
 
-Data yang digunakan dalam analisis ini merupakan kumpulan data historis dari sistem penjualan Gold Bike Store selama periode 2011–2013 dan sebagian Januari 2014. Data ini mencakup berbagai dimensi utama yang merepresentasikan aktivitas bisnis perusahaan, antara lain:
+Data yang digunakan dalam analisis ini merupakan kumpulan data historis dari sistem penjualan **Gold Bike Store** selama periode **2011–2013** dan sebagian **Januari 2014**. Data ini mencakup berbagai dimensi utama yang merepresentasikan aktivitas bisnis perusahaan, antara lain:
 
 <p align="center">
    <img src="https://github.com/AlHafidzLuhurDarma/Analisa-Gudang-Penyimpanan/blob/main/gambar/ERD.png" width=400 height=300>
